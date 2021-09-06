@@ -6,7 +6,7 @@ Welcome to this repository.
 This repository contains the code and files for making inventory management system in jupyter notebook/Google collab using json file.
  
 In this repository there are 3 files namely: 
-* IMS.pynb
+* IMS.ipynb
 * Sales.json
 * records.json
 
@@ -47,7 +47,7 @@ I sincerely thank **Elite Techno Groups** for giving me an opportunity to take p
 
 I am learning lot of new and useful things.
 
-Thank you for visiting this repository. 
+Thank you for visiting this repository.
 
 
 
