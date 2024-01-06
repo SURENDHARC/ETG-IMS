@@ -38,14 +38,7 @@ With this inventory management system , we can do the following things:
 
 ![Screenshot_20210906-091251_Chrome](https://user-images.githubusercontent.com/90146883/132184253-17f70dd2-2251-4c87-a1be-4f7378388d08.jpg)
 
-This is my first project/assignment on python.
-I hope that I have done well.
 
-I have made this project on Google collab using my smartphone. 
-
-I sincerely thank **Elite Techno Groups** for giving me an opportunity to take part in this internship. 
-
-I am learning lot of new and useful things.
 
 Thank you for visiting this repository.
 
